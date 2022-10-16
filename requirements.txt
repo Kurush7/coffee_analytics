@@ -1,0 +1,2 @@
+qr-console==1.1.1
+swiplserver==1.0.2
